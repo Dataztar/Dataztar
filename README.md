@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dataztar
-- I am interested in building applications with Python and Raspberry Pi. 
+- I am interested in becoming a full stack developer. 
 
 <!---
 Dataztar/Dataztar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
